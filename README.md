@@ -1,6 +1,6 @@
 # Awesome applied category theory
 
-A curated list of awesome Applied Category Theory resources
+A curated list of awesome Applied Category Theory resources.
 
 ## Table of contents
 
@@ -20,7 +20,7 @@ A curated list of awesome Applied Category Theory resources
     - [Tools](#tools)
 
 ### Articles
-*Relvant articles applying category theory to several fields*
+*Relevant articles applying category theory to various fields.*
 
 #### Databases
 
@@ -57,7 +57,7 @@ A curated list of awesome Applied Category Theory resources
 * [What is Applied Category Theory](https://arxiv.org/abs/1809.05923) - by [Tai-Danae Bradley][bradley]
 
 ### Companies
-*Companies which are actually applying category theory*
+*Companies applying category theory.*
 
 * [Conexus](https://conexus.ai/) - developing [CQL](https://www.categoricaldata.net/), a tool for data migrations
 * [Statebox](https://statebox.org/) - building a formally verified process language using robust mathematical principles to prevent errors, allow compositionality and ensure termination
@@ -68,19 +68,19 @@ A curated list of awesome Applied Category Theory resources
 * [SYCO](http://events.cs.bham.ac.uk/syco) - Symposium on Compositional Structures
 
 ### Journals
-*Academic journals on applied category theory*
+*Academic journals on applied category theory.*
 
 * [Compositionality](http://www.compositionality-journal.org/) - open-access journal for research using compositional ideas, most notably of a category-theoretic origin, in any discipline
 
 ### Software libraries
-*Libraries to actually encode category theory in software*
+*Libraries to actually encode category theory in software.*
 
 * [copumpkin/categories](https://github.com/copumpkin/categories) - categories parametrized by morphism equality, in [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php)
 * [idris-ct](https://github.com/statebox/idris-ct) - a formally verified category theory library written in [Idris](https://www.idris-lang.org/)
 
 
 ### Tools
-*Useful tools for applied category theory*
+*Useful tools for applied category theory.*
 
 * [Catlab.jl](https://github.com/epatters/Catlab.jl) - an experimental framework for applied category theory
 * [Homotopy.io](https://homotopy.io/) - a web-based proof assistant for finitely-presented globular n-categories
