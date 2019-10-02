@@ -65,6 +65,7 @@ A curated list of awesome Applied Category Theory resources.
 ### Conferences
 
 * [ACT](http://www.appliedcategorytheory.org/) - Applied Category Theory Conference
+* [Statebox Summit](https://summit.statebox.org/) - Statebox summit
 * [SYCO](http://events.cs.bham.ac.uk/syco) - Symposium on Compositional Structures
 
 ### Journals
