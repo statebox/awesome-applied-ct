@@ -63,7 +63,7 @@ A curated list of awesome Applied Category Theory resources.
 
 #### Probability and statistics
 
-* [A categorical approach to probability theory](https://www.chrisstucchio.com/blog_media/2016/probability_the_monad/categorical_probability_giry.pdf) - by Mich鑞e Giry
+* [A categorical approach to probability theory](https://www.chrisstucchio.com/blog_media/2016/probability_the_monad/categorical_probability_giry.pdf) - by Michèle Giry
 * [Causal inference by string diagram surgery](https://arxiv.org/abs/1811.08338) - by [Bart Jacobs](jacobs), [Aleks Kissinger](kissinger) and [Fabio Zanasi](zanasi)
 * [A synthetic approach to Markov kernels, conditional independence and theorems on sufficient statistics](https://arxiv.org/abs/1908.07021) - by [Tobias Fritz][fritz]
 
