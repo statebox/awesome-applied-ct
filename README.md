@@ -29,7 +29,7 @@ A curated list of awesome Applied Category Theory resources.
 
 #### Data types
 
-* [Categories of Containers](https://www.cs.nott.ac.uk/~psztxa/publ/fossacs03.pdf) - by [Michael Abbot][abbot], [Thorsten Altenkirch](altenkirch) and [Neil Ghani](ghani)
+* [Categories of Containers](https://www.cs.nott.ac.uk/~psztxa/publ/fossacs03.pdf) - by [Michael Abbot][abbot], [Thorsten Altenkirch][altenkirch] and [Neil Ghani][ghani]
 
 #### Dynamical systems
 
@@ -37,15 +37,15 @@ A curated list of awesome Applied Category Theory resources.
 
 #### Game theory
 
-* [A semantical approach to equilibria and rationality](https://arxiv.org/abs/0905.3548) - by [Dusko Pavlovic](pavlovic)
-* [Compositional game theory](https://arxiv.org/abs/1603.04641) - by [Jules Hedges](hedges), [Neil Ghani](ghani), [Viktor Winschel](winschel) and [Philipp Zahn](zahn)
+* [A semantical approach to equilibria and rationality](https://arxiv.org/abs/0905.3548) - by [Dusko Pavlovic][pavlovic]
+* [Compositional game theory](https://arxiv.org/abs/1603.04641) - by [Jules Hedges][hedges], [Neil Ghani][ghani], [Viktor Winschel][winschel] and [Philipp Zahn][zahn]
 * [The game semantics of game theory](https://arxiv.org/abs/1904.11287) - by [Jules Hedges][hedges]
 
 #### Linguistics
 
 * [Free compact 2-categories](https://hal-lirmm.ccsd.cnrs.fr/lirmm-00137681v2/document) - by Joachim Lambek and Anne Preller
-* [Mathematical foundations for a compositional distributional model of meaning](https://arxiv.org/abs/1003.4394) - by [Bob Coecke](coecke), [Mehrnoosh Sadrzadeh](sadrzadeh) and [Stephen Clark](clark)
-* [The Frobenius anatomy of word meanings I: subject and object relative pronouns](https://arxiv.org/abs/1404.5278) - by [Mehrnoosh Sadrzadeh](sadrzadeh), [Stephen Clark](clark) and [Bob Coecke](coecke)
+* [Mathematical foundations for a compositional distributional model of meaning](https://arxiv.org/abs/1003.4394) - by [Bob Coecke][coecke], [Mehrnoosh Sadrzadeh][sadrzadeh] and [Stephen Clark][clark]
+* [The Frobenius anatomy of word meanings I: subject and object relative pronouns](https://arxiv.org/abs/1404.5278) - by [Mehrnoosh Sadrzadeh][sadrzadeh], [Stephen Clark][clark] and [Bob Coecke][coecke]
 
 #### Machine learning
 
@@ -54,7 +54,7 @@ A curated list of awesome Applied Category Theory resources.
 
 #### Manufacturing
 
-* [String diagrams for assembly planning](https://arxiv.org/abs/1909.10475) - by [Jade Master](master), [Evan Patterson](patterson), Shahin Yousfi, Arquimedes Canedo
+* [String diagrams for assembly planning](https://arxiv.org/abs/1909.10475) - by [Jade Master][master], [Evan Patterson][patterson], Shahin Yousfi, Arquimedes Canedo
 
 #### Petri nets
 
@@ -64,7 +64,7 @@ A curated list of awesome Applied Category Theory resources.
 #### Probability and statistics
 
 * [A categorical approach to probability theory](https://www.chrisstucchio.com/blog_media/2016/probability_the_monad/categorical_probability_giry.pdf) - by Michèle Giry
-* [Causal inference by string diagram surgery](https://arxiv.org/abs/1811.08338) - by [Bart Jacobs](jacobs), [Aleks Kissinger](kissinger) and [Fabio Zanasi](zanasi)
+* [Causal inference by string diagram surgery](https://arxiv.org/abs/1811.08338) - by [Bart Jacobs][jacobs], [Aleks Kissinger][kissinger] and [Fabio Zanasi][zanasi]
 * [A synthetic approach to Markov kernels, conditional independence and theorems on sufficient statistics](https://arxiv.org/abs/1908.07021) - by [Tobias Fritz][fritz]
 
 ### Books
