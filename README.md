@@ -33,7 +33,7 @@ A curated list of awesome Applied Category Theory resources.
 
 #### Dynamical systems
 
-* [A categorical approach to open and interconnected dynamical systems](https://arxiv.org/abs/1510.05076) - by [Brendan Fong][fong], [Paolo Rapisarda][rapisarda] and [PaweÅ‚ SobociÅ„ski][sobocinski]
+* [A categorical approach to open and interconnected dynamical systems](https://arxiv.org/abs/1510.05076) - by [Brendan Fong][fong], [Paolo Rapisarda][rapisarda] and [Pawe? Soboci?ski„][sobocinski]
 
 #### Game theory
 
@@ -49,8 +49,8 @@ A curated list of awesome Applied Category Theory resources.
 
 #### Machine learning
 
-* [Backprop as Functor: A compositional perspective on supervised learning](https://arxiv.org/abs/1711.10455) - by [Brendan Fong][fong], [David I. Spivak][spivak] and [RÃ©my TuyÃ©ras][tuyeras]
-* [Compositional Deep Learning](https://arxiv.org/abs/1907.08292) - by [Bruno GavranoviÄ‡][gavranovic]
+* [Backprop as Functor: A compositional perspective on supervised learning](https://arxiv.org/abs/1711.10455) - by [Brendan Fong][fong], [David I. Spivak][spivak] and [Rémy Tuyéras][tuyeras]
+* [Compositional Deep Learning](https://arxiv.org/abs/1907.08292) - by [Bruno Gavranovi?‡][gavranovic]
 
 #### Manufacturing
 
