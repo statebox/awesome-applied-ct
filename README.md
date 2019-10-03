@@ -77,6 +77,7 @@ A curated list of awesome Applied Category Theory resources.
 *Libraries to actually encode category theory in software.*
 
 * [copumpkin/categories](https://github.com/copumpkin/categories) - categories parametrized by morphism equality, in [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php)
+* [UniMath](https://github.com/UniMath/UniMath/tree/master/UniMath/CategoryTheory) - categories formalized using univalent mathematics, in [Coq](https://coq.inria.fr/)
 * [idris-ct](https://github.com/statebox/idris-ct) - a formally verified category theory library written in [Idris](https://www.idris-lang.org/)
 
 
