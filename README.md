@@ -1,6 +1,6 @@
-# Awesome applied category theory
+# Awesome Applied Category Theory
 
-A curated list of awesome Applied Category Theory resources.
+A curated list of Applied Category Theory resources.
 
 ## Table of contents
 
