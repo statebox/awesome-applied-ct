@@ -53,6 +53,7 @@ A curated list of awesome Applied Category Theory resources.
 *Books on applied category theory.*
 
 * [Category theory for the sciences](https://mitpress.mit.edu/books/category-theory-sciences) - by [David I. Spivak][spivak]
+* [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) - by [Bartosz Milewski][milewski]
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316) - by [Brendan Fong][fong] and [David I. Spivak][spivak]
 * [What is Applied Category Theory](https://arxiv.org/abs/1809.05923) - by [Tai-Danae Bradley][bradley]
 
@@ -97,6 +98,7 @@ A curated list of awesome Applied Category Theory resources.
 [hedges]: https://julesh.com/
 [herold]: http://shell.defekt.nl/~jelle/#/p/about/
 [master]: https://sites.google.com/view/jadeedenstarmaster/home
+[milewski]: https://bartoszmilewski.com/
 [rapisarda]: https://www.ecs.soton.ac.uk/people/pr3
 [schultz]: https://www.linkedin.com/in/patrick-schultz-16645590/
 [sobocinski]: https://www.ioc.ee/~pawel/
