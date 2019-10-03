@@ -29,7 +29,7 @@ A curated list of awesome Applied Category Theory resources.
 
 #### Data types
 
-* [Categories of containers](https://www.cs.nott.ac.uk/~psztxa/publ/fossacs03.pdf) - by [Michael Abbot][abbot], [Thorsten Altenkirch](altenkirch) and [Neil Ghani](ghani)
+* [Categories of Containers](https://www.cs.nott.ac.uk/~psztxa/publ/fossacs03.pdf) - by [Michael Abbot][abbot], [Thorsten Altenkirch](altenkirch) and [Neil Ghani](ghani)
 
 #### Dynamical systems
 
@@ -46,14 +46,14 @@ A curated list of awesome Applied Category Theory resources.
 
 #### Petri nets
 
-* [Generalized Petri Nets](https://arxiv.org/abs/1904.09091) - by [Jade Master]
+* [Generalized Petri Nets](https://arxiv.org/abs/1904.09091) - by [Jade Master][master]
 * [The Mathematical Specification of the Statebox Language](https://arxiv.org/abs/1906.07629) - by [Fabrizio Genovese][genovese] and [Jelle Herold][herold]
 
 ### Books
 *Books on applied category theory.*
 
-* [Category theory for the sciences](https://mitpress.mit.edu/books/category-theory-sciences) - by [David I. Spivak][spivak]
 * [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) - by [Bartosz Milewski][milewski]
+* [Category Theory for the Sciences](https://mitpress.mit.edu/books/category-theory-sciences) - by [David I. Spivak][spivak]
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316) - by [Brendan Fong][fong] and [David I. Spivak][spivak]
 * [What is Applied Category Theory](https://arxiv.org/abs/1809.05923) - by [Tai-Danae Bradley][bradley]
 
@@ -78,9 +78,8 @@ A curated list of awesome Applied Category Theory resources.
 *Libraries to actually encode category theory in software.*
 
 * [copumpkin/categories](https://github.com/copumpkin/categories) - categories parametrized by morphism equality, in [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php)
-* [UniMath](https://github.com/UniMath/UniMath/tree/master/UniMath/CategoryTheory) - categories formalized using univalent mathematics, in [Coq](https://coq.inria.fr/)
 * [idris-ct](https://github.com/statebox/idris-ct) - a formally verified category theory library written in [Idris](https://www.idris-lang.org/)
-
+* [UniMath](https://github.com/UniMath/UniMath/tree/master/UniMath/CategoryTheory) - categories formalized using univalent mathematics, in [Coq](https://coq.inria.fr/)
 
 ### Tools
 *Useful tools for applied category theory.*
