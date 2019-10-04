@@ -85,7 +85,7 @@ A curated list of Applied Category Theory resources.
 * [Conexus](https://conexus.ai/) - developing [CQL](https://www.categoricaldata.net/), a tool for data migrations
 * [Statebox](https://statebox.org/) - building a formally verified process language using robust mathematical principles to prevent errors, allow compositionality and ensure termination
 
-### Interested in ACT research
+#### Interested in ACT research
 
 * [IOHK](https://iohk.io/) - builds cryptocurrencies and blockchain solutions, based on peer reviewed papers; formally verified specifications in [Agda](https://github.com/input-output-hk/plutus/tree/master/metatheory), [Coq](https://github.com/input-output-hk?language=coq) and [k-framework](https://testnet.iohkdev.io/iele/about/formal-verification/)
 * [RChain](https://github.com/rchain/) - blockchain ecosystem it's foundational language - Rholang is implementation of [rho-calculus](http://rho.loria.fr/index.html) wih deep roots in [higher category theory](https://arxiv.org/abs/1504.04311) and [enriched Lawvere theories](https://arxiv.org/abs/1704.03080)
