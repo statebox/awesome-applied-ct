@@ -14,6 +14,8 @@ A curated list of Applied Category Theory resources.
         - [Petri nets](#petri-nets)
     - [Books](#books)
     - [Companies](#companies)
+        - [Heavily using ACT](#heavily-using-act)
+        - [Interested in ACT research](#interested-in-act-research)
     - [Conferences](#conferences)
     - [Journals](#journals)
     - [Software libraries](#software-libraries)
@@ -75,13 +77,15 @@ A curated list of Applied Category Theory resources.
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316) - by [Brendan Fong][fong] and [David I. Spivak][spivak]
 * [What is Applied Category Theory](https://arxiv.org/abs/1809.05923) - by [Tai-Danae Bradley][bradley]
 
-### Companies heavily using ACT
+### Companies
+
+#### Heavily using ACT
 *Companies applying category theory.*
 
 * [Conexus](https://conexus.ai/) - developing [CQL](https://www.categoricaldata.net/), a tool for data migrations
 * [Statebox](https://statebox.org/) - building a formally verified process language using robust mathematical principles to prevent errors, allow compositionality and ensure termination
 
-### Companies interested in ACT research
+### Interested in ACT research
 
 ### Conferences
 
