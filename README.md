@@ -78,9 +78,9 @@ A curated list of Applied Category Theory resources.
 * [What is Applied Category Theory](https://arxiv.org/abs/1809.05923) - by [Tai-Danae Bradley][bradley]
 
 ### Companies
+*Companies applying category theory.*
 
 #### Heavily using ACT
-*Companies applying category theory.*
 
 * [Conexus](https://conexus.ai/) - developing [CQL](https://www.categoricaldata.net/), a tool for data migrations
 * [Statebox](https://statebox.org/) - building a formally verified process language using robust mathematical principles to prevent errors, allow compositionality and ensure termination
