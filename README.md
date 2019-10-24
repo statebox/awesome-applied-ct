@@ -111,6 +111,7 @@ A curated list of Applied Category Theory resources.
 ### Tools
 *Useful tools for applied category theory.*
 
+* [Cartographer.id](http://cartographer.id/) - a tool for string diagrammatic reasoning
 * [Catlab.jl](https://github.com/epatters/Catlab.jl) - an experimental framework for applied category theory
 * [Homotopy.io](https://homotopy.io/) - a web-based proof assistant for finitely-presented globular n-categories
 * [KdMonCat](http://kdmoncat.glitch.me/) - a tool for drawing morphisms in monoidal categories
