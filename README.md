@@ -18,9 +18,9 @@ A curated list of Applied Category Theory resources.
         - [Interested in ACT research](#interested-in-act-research)
     - [Conferences](#conferences)
     - [Journals](#journals)
+    - [Lectures](#lectures)
     - [Software libraries](#software-libraries)
     - [Tools](#tools)
-    - [Lectures](#lectures)
 
 ### Articles
 *Relevant articles applying category theory to various fields.*
@@ -75,13 +75,8 @@ A curated list of Applied Category Theory resources.
 
 * [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) - by [Bartosz Milewski][milewski]
 * [Category Theory for the Sciences](https://mitpress.mit.edu/books/category-theory-sciences) - by [David I. Spivak][spivak]
-* [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316) - by [Brendan Fong][fong] and [David I. Spivak][spivak] (note also the [corresponding lecture series, below](#lectures)).
+* [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316) - by [Brendan Fong][fong] and [David I. Spivak][spivak] (note also the [corresponding lecture series](#lectures)).
 * [What is Applied Category Theory](https://arxiv.org/abs/1809.05923) - by [Tai-Danae Bradley][bradley]
-
-### Lectures
-*Video recordings of lecture series on applied category theory.*
-
-* [Applied Category Theory @ MIT 2019](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5), series of lectures based on the "Seven Sketches" book - by [Brendan Fong][fong] and [David I. Spivak][spivak]
 
 ### Companies
 *Companies applying category theory.*
@@ -106,6 +101,11 @@ A curated list of Applied Category Theory resources.
 *Academic journals on applied category theory.*
 
 * [Compositionality](http://www.compositionality-journal.org/) - open-access journal for research using compositional ideas, most notably of a category-theoretic origin, in any discipline
+
+### Lectures
+*Video recordings of lecture series on applied category theory.*
+
+* [Applied Category Theory @ MIT 2019](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5), series of lectures based on the "Seven Sketches" book - by [Brendan Fong][fong] and [David I. Spivak][spivak]
 
 ### Software libraries
 *Libraries to actually encode category theory in software.*
