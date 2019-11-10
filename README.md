@@ -97,6 +97,10 @@ A curated list of Applied Category Theory resources.
 * [Statebox Summit](https://summit.statebox.org/) - An yearly gathering of category theorists and functional programmers
 * [SYCO](http://events.cs.bham.ac.uk/syco) - Symposium on Compositional Structures
 
+### ACT Meetups
+* [San Francisco Bay Area](https://www.meetup.com/Category-Theory)
+* [Munich](http://meetu.ps/e/H8B1K/gYxbT/a)
+
 ### Journals
 *Academic journals on applied category theory.*
 
