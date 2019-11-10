@@ -29,6 +29,8 @@ A curated list of Applied Category Theory resources.
 
 * [Algebraic databases](http://www.tac.mta.ca/tac/volumes/32/16/32-16abs.html) - by [Patrick Schultz][schultz], [David I. Spivak][spivak], [Christina Vasilakopoulou][vasilakopoulou] and [Ryan Wisnesky][wisnesky]
 * [Functorial data migration](https://www.sciencedirect.com/science/article/pii/S0890540112001010) - by [David I. Spivak][spivak]
+* [Algebraic Model Management: A survey](https://www.categoricaldata.net/cql/wadt.pdf) - by [Patrick Schultz][schultz], [David I. Spivak][spivak], and [Ryan Wisnesky][wisnesky].  
+* [Paper repository for the CQL project](https://www.categoricaldata.net/papers)
 
 #### Data types
 
@@ -83,7 +85,7 @@ A curated list of Applied Category Theory resources.
 
 #### Heavily using ACT
 
-* [Conexus](https://conexus.ai/) - developing [CQL](https://www.categoricaldata.net/), a tool for data migrations
+* [Conexus](https://conexus.com/) - A start-up developing [CQL](https://www.categoricaldata.net/), a generalization of SQL to data migration and integration that contains an automated theorem prover to rule out most semantic errors at compile time.
 * [Statebox](https://statebox.org/) - building a formally verified process language using robust mathematical principles to prevent errors, allow compositionality and ensure termination
 
 #### Interested in ACT research
@@ -99,6 +101,7 @@ A curated list of Applied Category Theory resources.
 
 ### ACT Meetups
 * [San Francisco Bay Area](https://www.meetup.com/Category-Theory)
+* [Boston](https://www.meetup.com/Categorical-Databases/)
 * [Munich](http://meetu.ps/e/H8B1K/gYxbT/a)
 
 ### Journals
