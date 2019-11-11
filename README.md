@@ -19,6 +19,7 @@ A curated list of Applied Category Theory resources.
     - [Conferences](#conferences)
     - [Journals](#journals)
     - [Lectures](#lectures)
+    - [Meetups](#meetups)
     - [Software libraries](#software-libraries)
     - [Tools](#tools)
 
@@ -99,11 +100,6 @@ A curated list of Applied Category Theory resources.
 * [Statebox Summit](https://summit.statebox.org/) - An yearly gathering of category theorists and functional programmers
 * [SYCO](http://events.cs.bham.ac.uk/syco) - Symposium on Compositional Structures
 
-### ACT Meetups
-* [San Francisco Bay Area](https://www.meetup.com/Category-Theory)
-* [Boston](https://www.meetup.com/Categorical-Databases/)
-* [Munich](http://meetu.ps/e/H8B1K/gYxbT/a)
-
 ### Journals
 *Academic journals on applied category theory.*
 
@@ -113,6 +109,11 @@ A curated list of Applied Category Theory resources.
 *Video recordings of lecture series on applied category theory.*
 
 * [Applied Category Theory @ MIT 2019](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5), series of lectures based on the "Seven Sketches" book - by [Brendan Fong][fong] and [David I. Spivak][spivak]
+
+### Meetups
+* [San Francisco Bay Area](https://www.meetup.com/Category-Theory)
+* [Boston](https://www.meetup.com/Categorical-Databases/)
+* [Munich](https://www.meetup.com/Applied-Category-Theory-Munich/)
 
 ### Software libraries
 *Libraries to actually encode category theory in software.*
