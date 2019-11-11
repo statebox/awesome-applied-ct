@@ -29,9 +29,8 @@ A curated list of Applied Category Theory resources.
 #### Databases
 
 * [Algebraic databases](http://www.tac.mta.ca/tac/volumes/32/16/32-16abs.html) - by [Patrick Schultz][schultz], [David I. Spivak][spivak], [Christina Vasilakopoulou][vasilakopoulou] and [Ryan Wisnesky][wisnesky]
+* [Algebraic Model Management: A survey](https://www.categoricaldata.net/cql/wadt.pdf) - by [Patrick Schultz][schultz], [David I. Spivak][spivak], and [Ryan Wisnesky][wisnesky]
 * [Functorial data migration](https://www.sciencedirect.com/science/article/pii/S0890540112001010) - by [David I. Spivak][spivak]
-* [Algebraic Model Management: A survey](https://www.categoricaldata.net/cql/wadt.pdf) - by [Patrick Schultz][schultz], [David I. Spivak][spivak], and [Ryan Wisnesky][wisnesky].  
-* [Paper repository for the CQL project](https://www.categoricaldata.net/papers)
 
 #### Data types
 
