@@ -110,9 +110,10 @@ A curated list of Applied Category Theory resources.
 * [Applied Category Theory @ MIT 2019](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5), series of lectures based on the "Seven Sketches" book - by [Brendan Fong][fong] and [David I. Spivak][spivak]
 
 ### Meetups
-* [San Francisco Bay Area](https://www.meetup.com/Category-Theory)
 * [Boston](https://www.meetup.com/Categorical-Databases/)
 * [Munich](https://www.meetup.com/Applied-Category-Theory-Munich/)
+* [New York](https://www.meetup.com/NYC-Category-Theory/)
+* [San Francisco Bay Area](https://www.meetup.com/Category-Theory)
 
 ### Software libraries
 *Libraries to actually encode category theory in software.*
